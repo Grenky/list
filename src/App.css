@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  background-color: #B2B2C9;
+  height: 100vh;
+  widows: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.list-box {
+  width: 300px;
+  height: 500px;
+  background-color: white;
+  border-radius: 15px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+.send-btn {
+  width: 200px;
+  height: 50px;
+  background-color: #E54206;
+  border-radius: 15px;
+  border: none;
+  margin-bottom: 25px;
+  color: white;
+  cursor: pointer;
+}
+
